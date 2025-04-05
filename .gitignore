@@ -1,0 +1,5 @@
+.env
+client/node_modules/
+__pycache__/
+myenv/
+server/uploads/
